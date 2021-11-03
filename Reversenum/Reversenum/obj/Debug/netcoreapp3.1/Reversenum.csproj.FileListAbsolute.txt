@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\bin\Debug\netcoreapp3.1\Reversenum.exe
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\bin\Debug\netcoreapp3.1\Reversenum.deps.json
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\bin\Debug\netcoreapp3.1\Reversenum.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\bin\Debug\netcoreapp3.1\Reversenum.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\bin\Debug\netcoreapp3.1\Reversenum.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\bin\Debug\netcoreapp3.1\Reversenum.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\Reversenum\Reversenum\obj\Debug\netcoreapp3.1\Reversenum.genruntimeconfig.cache

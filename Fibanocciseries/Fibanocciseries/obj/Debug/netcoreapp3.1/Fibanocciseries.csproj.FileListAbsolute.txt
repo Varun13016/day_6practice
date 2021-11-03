@@ -1,0 +1,13 @@
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\bin\Debug\netcoreapp3.1\Fibanocciseries.exe
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\bin\Debug\netcoreapp3.1\Fibanocciseries.deps.json
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\bin\Debug\netcoreapp3.1\Fibanocciseries.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\bin\Debug\netcoreapp3.1\Fibanocciseries.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\bin\Debug\netcoreapp3.1\Fibanocciseries.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\bin\Debug\netcoreapp3.1\Fibanocciseries.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\obj\Debug\netcoreapp3.1\Fibanocciseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\obj\Debug\netcoreapp3.1\Fibanocciseries.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\obj\Debug\netcoreapp3.1\Fibanocciseries.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\obj\Debug\netcoreapp3.1\Fibanocciseries.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\obj\Debug\netcoreapp3.1\Fibanocciseries.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\obj\Debug\netcoreapp3.1\Fibanocciseries.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\Fibanocciseries\Fibanocciseries\obj\Debug\netcoreapp3.1\Fibanocciseries.genruntimeconfig.cache

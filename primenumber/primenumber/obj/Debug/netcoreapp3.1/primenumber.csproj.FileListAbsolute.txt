@@ -1,0 +1,13 @@
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.exe
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.deps.json
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\bin\Debug\netcoreapp3.1\primenumber.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\primenumber\primenumber\obj\Debug\netcoreapp3.1\primenumber.genruntimeconfig.cache

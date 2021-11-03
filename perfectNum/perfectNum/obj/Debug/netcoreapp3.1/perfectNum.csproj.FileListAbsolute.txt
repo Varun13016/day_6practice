@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\bin\Debug\netcoreapp3.1\perfectNum.exe
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\bin\Debug\netcoreapp3.1\perfectNum.deps.json
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\bin\Debug\netcoreapp3.1\perfectNum.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\bin\Debug\netcoreapp3.1\perfectNum.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\bin\Debug\netcoreapp3.1\perfectNum.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\bin\Debug\netcoreapp3.1\perfectNum.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.dll
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.pdb
+C:\Users\VARUN KUMAR\source\repos\Day6\perfectNum\perfectNum\obj\Debug\netcoreapp3.1\perfectNum.genruntimeconfig.cache
