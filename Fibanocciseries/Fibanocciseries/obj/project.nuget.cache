@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WS31/EXn4fOnpP7D1oCK0/rtwPLioNT+oRE2jbXj1ixGK6TKa3Iw7z9NLHt3GdHWYvJfHiCXmECfyfwcVVeI+Q==",
+  "dgSpecHash": "NBe9Og57z7P8bBou37Iej4mJWw3bYU7mh408VI5j5AuVNJQR+M0rIKCtyjD4pxk2dJi3XR2inhk8hhMRGyCX5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\Fibanocciseries\\Fibanocciseries\\Fibanocciseries.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\VARUN KUMAR\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

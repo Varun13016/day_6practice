@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\Fibanocciseries\\Fibanocciseries\\Fibanocciseries.csproj": {}
+    "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\stopwatch\\stopwatch\\watch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\Fibanocciseries\\Fibanocciseries\\Fibanocciseries.csproj": {
+    "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\stopwatch\\stopwatch\\watch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\Fibanocciseries\\Fibanocciseries\\Fibanocciseries.csproj",
-        "projectName": "Fibanocciseries",
-        "projectPath": "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\Fibanocciseries\\Fibanocciseries\\Fibanocciseries.csproj",
+        "projectUniqueName": "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\stopwatch\\stopwatch\\watch.csproj",
+        "projectName": "watch",
+        "projectPath": "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\stopwatch\\stopwatch\\watch.csproj",
         "packagesPath": "C:\\Users\\VARUN KUMAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\Fibanocciseries\\Fibanocciseries\\obj\\",
+        "outputPath": "C:\\Users\\VARUN KUMAR\\source\\repos\\Day6\\stopwatch\\stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VARUN KUMAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "System.Diagnostics.DiagnosticSource": {
-              "target": "Package",
-              "version": "[5.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
